@@ -125,3 +125,7 @@
     width: auto;
   }
 }
+
+.dark-mode .greeting-text {
+  color: $textColorDark !important; // or #fff
+}
