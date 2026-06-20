@@ -230,6 +230,18 @@ const bigProjects = {
           url: "https://medium-clone-mu-nine.vercel.app/signup"
         }
       ]
+    },
+     {
+      image: require("./assets/images/pass.jpg"),
+      projectName: "Password_Generator",
+      projectDesc: "Generate Highly Secure Passwords with ease",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://password-generator-rose-ten-21.vercel.app/"
+        }
+        //  you can add extra buttons here.
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
